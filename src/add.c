@@ -1,3 +1,5 @@
+// taken from http://adv-r.had.co.nz/C-interface.html#calling-c
+
 #include "./roygvib.h"
 
 SEXP add_impl(SEXP a, SEXP b) {
